@@ -1,3 +1,4 @@
+~~~
 Step 1:
 	replace the keyword 'YourProjectName' to 'libxxx'
 
@@ -6,3 +7,4 @@ Step 2:
 
 Step 3:
 	update 'TOOL_TARGET_PATCH' if the tarball need to be patched before config & make.
+~~~
